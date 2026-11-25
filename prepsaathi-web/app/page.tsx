@@ -77,8 +77,7 @@ export default function Home() {
               School Education
             </h3>
             <p className="mt-4 text-slate-300">
-              Learn with AI tutors for CBSE, CISCE and
-              West Bengal Board students.
+Learn with AI tutors for CBSE, ICSE, ISC and West Bengal Board students.
             </p>
             <p className="mt-5 text-xl font-bold text-cyan-400">
               ₹149 / month
